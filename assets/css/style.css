@@ -1199,14 +1199,14 @@ main {
 }
 
 .form-input {
-  color: var(--white-2);
+  color: black;
   font-size: var(--fs-6);
   font-weight: var(--fw-400);
   padding: 13px 20px;
   border: 1px solid var(--jet);
   border-radius: 14px;
   outline: none;
-	background-color: var(--bg-gradient-jet);
+	background-color: white;
 }
 
 .form-input::placeholder {
