@@ -1206,7 +1206,7 @@ main {
   border: 1px solid var(--jet);
   border-radius: 14px;
   outline: none;
-	background-color: rgb(20,43,59);
+	background-color: var(--bg-gradient-jet);
 }
 
 .form-input::placeholder {
