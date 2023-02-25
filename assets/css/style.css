@@ -164,9 +164,13 @@ html {
 }
 
 body {
-	background: #1A2980;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #26D0CE, #1A2980);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #26D0CE, #1A2980); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
+	
+	background: url(assets/images/milad-fakurian-PGdW_bHDbpI-unsplash.jpg) no-repeat fixed ;
+    background-size: cover;
+/* 	background: #1A2980;  
+background: -webkit-linear-gradient(to bottom, #26D0CE, #1A2980);  
+background: linear-gradient(to bottom, #26D0CE, #1A2980);  */
 
 }
 
