@@ -172,12 +172,8 @@ body {
 background: -webkit-linear-gradient(to bottom, #26D0CE, #1A2980);  
 background: linear-gradient(to bottom, #26D0CE, #1A2980);  */
 /* 	background-image: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%); */
-/* 	background-image: linear-gradient( 65.9deg,  rgba(85,228,224,1) 5.5%, rgba(75,68,224,0.74) 54.2%, rgba(64,198,238,1) 55.2%, rgba(177,36,224,1) 98.4% ); */
-  backdrop-filter: blur(7px) saturate(200%);
-    -webkit-backdrop-filter: blur(7px) saturate(200%);
-    background-color: rgba(17, 25, 40, 0.37);
-    border-radius: 12px;
-    border: 1px solid rgba(255, 255, 255, 0.125);
+	background-image: linear-gradient( 65.9deg,  rgba(85,228,224,1) 5.5%, rgba(75,68,224,0.74) 54.2%, rgba(64,198,238,1) 55.2%, rgba(177,36,224,1) 98.4% );
+ 
 }
 
 
@@ -196,12 +192,11 @@ article {
   padding: 15px;
   box-shadow: var(--shadow-1);
   z-index: 1;
-  background: rgba( 0, 0, 0, 0.75 );
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 9.5px );
--webkit-backdrop-filter: blur( 9.5px );
-border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 );
+  backdrop-filter: blur(7px) saturate(200%);
+    -webkit-backdrop-filter: blur(7px) saturate(200%);
+    background-color: rgba(17, 25, 40, 0.37);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
 }
 
 .separator {
