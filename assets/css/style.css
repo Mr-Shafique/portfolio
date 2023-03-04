@@ -165,15 +165,8 @@ html {
 
 body {
 	
-	
-/* 	background: url(assets/images/wall.jpg) no-repeat fixed ;
-    background-size: cover; */
-/* 	background: #1A2980;  
-background: -webkit-linear-gradient(to bottom, #26D0CE, #1A2980);  
-background: linear-gradient(to bottom, #26D0CE, #1A2980);  */
-/* 	background-image: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%); */
-	background-image: linear-gradient( 65.9deg,  rgba(85,228,224,1) 5.5%, rgba(75,68,224,0.74) 54.2%, rgba(64,198,238,1) 55.2%, rgba(177,36,224,1) 98.4% );
- 
+      background: linear-gradient(235deg, #FFFFFF 0%, #000F25 100%), linear-gradient(180deg, #6100FF 0%, #000000 100%), linear-gradient(235deg, #FFA3AC 0%, #FFA3AC 40%, #4b4e80 calc(40% + 1px), #00043C 60%, #005D6C calc(60% + 1px), #005D6C 70%, #00C9B1 calc(70% + 1px), #00C9B1 100%), linear-gradient(125deg, #FFA3AC 0%, #FFA3AC 40%, #00043C calc(40% + 1px), #00043C 60%, #005D6C calc(60% + 1px), #005D6C 70%, #00C9B1 calc(70% + 1px), #00C9B1 100%);
+      background-blend-mode: soft-light, screen, darken, normal;
 }
 
 
